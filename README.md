@@ -3,7 +3,10 @@
 - [Índice](#índice)
 
 
-## Tags & Techs
+### --
+
+
+## Tags
 * [![Contributors][contributors-shield]][contributors-url]
 
 [contributors-shield]: https://img.shields.io/github/contributors/AlbertLnz/dice-API.svg?style=for-the-badge
@@ -11,28 +14,30 @@
 
 * [![Forks][forks-shield]][forks-url]
 
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[forks-shield]: https://img.shields.io/github/forks/AlbertLnz/dice-API.svg?style=for-the-badge
+[forks-url]: https://github.com/AlbertLnz/dice-API/network/members
 
 * [![Stargazers][stars-shield]][stars-url]
 
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[stars-shield]: https://img.shields.io/github/stars/AlbertLnz/dice-API.svg?style=for-the-badge
+[stars-url]: https://github.com/AlbertLnz/dice-API/stargazers
 
 * [![Issues][issues-shield]][issues-url]
 
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[issues-shield]: https://img.shields.io/github/issues/AlbertLnz/dice-API.svg?style=for-the-badge
+[issues-url]: https://github.com/AlbertLnz/dice-API/issues
 
 * [![MIT License][license-shield]][license-url]
 
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/AlbertLnz/dice-API.svg?style=for-the-badge
+[license-url]: https://github.com/AlbertLnz/dice-API/blob/master/LICENSE.txt
 
 * [![LinkedIn][linkedin-shield]][linkedin-url]
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
+
+## Techs
 
 * [![Next][Next.js]][Next-url]
 
@@ -73,6 +78,9 @@
 
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+
+
+
 
 
 ### Tables
