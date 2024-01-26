@@ -133,7 +133,8 @@ ___
 
 ## Basics
 **This is bold text** <br>
-_This text is italicized_ <br>
+*This text is italicized (way 1 - better)* <br>
+_This text is italicized (way 2)_ <br>
 ~~This was mistaken text~~ <br>
 **This text is _extremely_ important** <br>
 ***All this text is important*** <br>
