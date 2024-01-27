@@ -3,7 +3,9 @@
 - [Índice](#índice)
 
 
-### --
+## PageSpeed Insights
+<!-- https://github.com/ankurparihar/readme-pagespeed-insights/blob/master/README.md -->
+![](https://raw.githubusercontent.com/VishwaGauravIn/Images/f13849bc9989d66c67085313dd606ea978eff0f8/psi-gprm.svg)
 
 
 ## Tags
@@ -131,7 +133,8 @@ ___
 
 ## Basics
 **This is bold text** <br>
-_This text is italicized_ <br>
+*This text is italicized (way 1 - better)* <br>
+_This text is italicized (way 2)_ <br>
 ~~This was mistaken text~~ <br>
 **This text is _extremely_ important** <br>
 ***All this text is important*** <br>
