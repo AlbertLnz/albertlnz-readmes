@@ -39,6 +39,13 @@
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 
+<!-- Discord Image (Join our community) -->
+<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" />
+
+<!-- YouTube (Watch the tutorial) -->
+<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" />
+
+
 ## Techs
 
 * [![Next][Next.js]][Next-url]
