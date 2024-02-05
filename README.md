@@ -37,6 +37,10 @@
 
 <!-- ############################### -->
 
+[![Stars Icon]][Link5] 
+
+[Stars Icon]: https://img.shields.io/github/stars/AlbertLnz/dice-API?style=for-the-badge&labelColor=d0ab23&color=b0901e&logoColor=white&logo=Trustpilot
+[Link5]: https://linkedin.com
 
 ## Tags
 * [![Contributors][contributors-shield]][contributors-url]
