@@ -8,6 +8,36 @@
 ![](https://raw.githubusercontent.com/VishwaGauravIn/Images/f13849bc9989d66c67085313dd606ea978eff0f8/psi-gprm.svg)
 
 
+## Buttons
+
+[<kbd> <br> Ctrl + C <br> </kbd>][Link]
+
+[Link]: https://google.es
+
+<!-- ############################### -->
+
+[![Button Click]][Link2]
+
+[Button Click]: https://img.shields.io/badge/Click_Me!-37a779?style=for-the-badge
+[Link2]: https://youtube.es
+
+<!-- ############################### -->
+
+[![Button Hover]][Link3]
+
+[Button Hover]: https://img.shields.io/badge/Hover_Over_Me!-37a779?style=for-the-badge
+[Link3]: https://amazon.es
+
+<!-- ############################### -->
+
+[![Installation Icon]][Link4] 
+
+[Installation Icon]: https://img.shields.io/badge/Installation-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+[Link4]: https://github.com
+
+<!-- ############################### -->
+
+
 ## Tags
 * [![Contributors][contributors-shield]][contributors-url]
 
