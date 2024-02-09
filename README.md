@@ -122,6 +122,10 @@
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
 
+* [![MySQL]][MySQL-url]
+
+[MySQL]: https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&labelColor=4479A1&logoColor=white
+[MySQL-url]: https://www.mysql.com/
 
 
 
