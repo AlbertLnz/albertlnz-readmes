@@ -122,6 +122,16 @@
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
 
+* [![MySQL]][MySQL-url]
+
+[MySQL]: https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&labelColor=4479A1&logoColor=white
+[MySQL-url]: https://www.mysql.com/
+
+* [![PlanetScale]][PlanetScale-url]
+
+[PlanetScale]: https://img.shields.io/badge/planetscale-%23000000.svg?style=for-the-badge&logo=planetscale&logoColor=white
+[PlanetScale-url]: https://planetscale.com/
+
 
 
 
