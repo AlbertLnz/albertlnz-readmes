@@ -10,6 +10,40 @@
 
 ## Buttons
 
+<!-- ############################### -->
+
+[![Watch Videos](https://raw.githubusercontent.com/ChristianFJung/simple-github-buttons/master/watchVideos.svg)](http://google.es)
+
+<!-- ############################### -->
+
+[![Watch Video](https://raw.githubusercontent.com/ChristianFJung/simple-github-buttons/master/watchVideo.svg)](http://google.es)
+
+<!-- ############################### -->
+
+[![Google Slides](https://raw.githubusercontent.com/ChristianFJung/simple-github-buttons/master/googleSlides.svg)](http://google.es)
+
+<!-- ############################### -->
+
+[![Google Drive](https://raw.githubusercontent.com/ChristianFJung/simple-github-buttons/master/googleDrive.svg)](http://google.es)
+
+<!-- ############################### -->
+
+[![Download File](https://raw.githubusercontent.com/ChristianFJung/simple-github-buttons/master/DownloadFile.svg)](http:google.es)
+
+<!-- ############################### -->
+
+[![Download Ipynb](https://raw.githubusercontent.com/ChristianFJung/simple-github-buttons/master/DownloadIpynb.svg)](http://google.es)
+
+<!-- ############################### -->
+
+[![Binder](https://mybinder.org/badge_logo.svg)](http://google.es)
+
+<!-- ############################### -->
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://google.es)
+
+<!-- ############################### -->
+
 [<kbd> <br> Ctrl + C <br> </kbd>][Link]
 
 [Link]: https://google.es
