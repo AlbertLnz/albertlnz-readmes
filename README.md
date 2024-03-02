@@ -7,6 +7,9 @@
 <!-- https://github.com/ankurparihar/readme-pagespeed-insights/blob/master/README.md -->
 ![](https://raw.githubusercontent.com/VishwaGauravIn/Images/f13849bc9989d66c67085313dd606ea978eff0f8/psi-gprm.svg)
 
+## Card
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlbertLnz&repo=dice-API&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/AlbertLnz/dice-API)
 
 ## GitHub Icons
 <!-- https://readme-workflows.github.io/Readme-Icons/icons/octicons/ -->
