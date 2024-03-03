@@ -7,6 +7,14 @@
 <!-- https://github.com/ankurparihar/readme-pagespeed-insights/blob/master/README.md -->
 ![](https://raw.githubusercontent.com/VishwaGauravIn/Images/f13849bc9989d66c67085313dd606ea978eff0f8/psi-gprm.svg)
 
+## GitHub History
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albertlnz&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=albertlnz&theme=github_dark)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=albertlnz&show_icons=true&include_all_commits=true&theme=radical" alt="albertlnz's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertlnz&layout=compact&theme=radical" />
+
 ## Repobeats
 ![Alt](https://repobeats.axiom.co/api/embed/909ddb19f56a1b9243b52b5994db4b0b8021b616.svg "Repobeats analytics image")
 
