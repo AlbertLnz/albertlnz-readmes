@@ -47,6 +47,11 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
+## Visitors count
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/albertlnz/count.svg" />
+</p>
 
 ## Repo stats
 <p  align="center">
