@@ -126,6 +126,30 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ## Project Card
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlbertLnz&repo=dice-API&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/AlbertLnz/dice-API)
 
+## More GitHub icons
+All [250+ Octicons](https://primer.style/octicons/) from GitHub are supported by Custom Icon Badges.
+
+| Slug               | Example                                                   |
+| ------------------ | --------------------------------------------------------- |
+| `issue-opened`     | [![issue-opened][issue-opened]][issue-opened]             |
+| `repo-forked`      | [![repo-forked][repo-forked]][repo-forked]                |
+| `star`             | [![star][star]][star]                                     |
+| `git-commit`       | [![git-commit][git-commit]][git-commit]                   |
+| `repo`             | [![repo][repo]][repo]                                     |
+| `git-pull-request` | [![git-pull-request][git-pull-request]][git-pull-request] |
+| `heart`            | [![heart][heart]][heart]                                  |
+| `mail`             | [![mail][mail]][mail]                                     |
+| More Octicons      | [View all ⇨](https://primer.style/octicons)               |
+
+[issue-opened]: https://custom-icon-badges.demolab.com/badge/Issue-red.svg?logo=issue-opened&logoColor=fff
+[repo-forked]: https://custom-icon-badges.demolab.com/badge/Fork-orange.svg?logo=fork
+[star]: https://custom-icon-badges.demolab.com/badge/Star-yellow.svg?logo=star
+[git-commit]: https://custom-icon-badges.demolab.com/badge/Commit-green.svg?logo=git-commit&logoColor=fff
+[repo]: https://custom-icon-badges.demolab.com/badge/Repo-blue.svg?logo=repo
+[git-pull-request]: https://custom-icon-badges.demolab.com/badge/Pull%20Request-purple.svg?logo=pr
+[heart]: https://custom-icon-badges.demolab.com/badge/Heart-D15E9B.svg?logo=heart
+[mail]: https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail
+
 ## GitHub Icons
 <!-- https://readme-workflows.github.io/Readme-Icons/icons/octicons/ -->
 Issue Closed: 
