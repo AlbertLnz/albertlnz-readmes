@@ -4,6 +4,7 @@
 
 ## Tips
 <center>This text is centered.</center>
+<font color="red">This text is red!</font>
 
 
 ## CodersRank
