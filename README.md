@@ -2,6 +2,10 @@
 
 - [Índice](#índice)
 
+## Tips
+<center>This text is centered.</center>
+
+
 ## CodersRank
 [![Summary widget](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=albertlnz&badges=3&show-avatar=true&branding=false)](https://profile.codersrank.io/user/albertlnz)
 
