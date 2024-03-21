@@ -6,6 +6,26 @@
 <center>This text is centered.</center>
 <font color="red">This text is red!</font>
 
+## Symbols
+Copyright (©): &copy;
+
+Registered trademark (®): &reg;
+
+Trademark (™): &trade;
+
+Euro (€): &euro;
+
+Left arrow (←): &larr;
+
+Up arrow (↑): &uarr;
+
+Right arrow (→): &rarr;
+
+Down arrow (↓): &darr;
+
+Degree (°):  &#176;
+
+Pi (π): &#960;
 
 ## CodersRank
 [![Summary widget](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=albertlnz&badges=3&show-avatar=true&branding=false)](https://profile.codersrank.io/user/albertlnz)
