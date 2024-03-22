@@ -5,6 +5,9 @@
 ## Tips
 <center>This text is centered.</center>
 <font color="red">This text is red!</font>
+<marquee behavior="scroll" direction="left">Este texto se mueve de izquierda a derecha.</marquee>
+<marquee behavior="scroll" direction="right">Este texto se mueve de izquierda a derecha.</marquee>
+
 
 ## Symbols
 Copyright (©): &copy;
