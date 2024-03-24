@@ -8,7 +8,7 @@
 <marquee behavior="scroll" direction="left">Este texto se mueve de izquierda a derecha.</marquee>
 <marquee behavior="scroll" direction="right">Este texto se mueve de izquierda a derecha.</marquee>
 
-## Joke
+## Jokes Card
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
