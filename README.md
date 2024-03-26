@@ -10,6 +10,9 @@
 <font color="blue">This text is red!</font>
 <font color="green">This text is red!</font>
 
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+
+
 ## Jokes Card
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
