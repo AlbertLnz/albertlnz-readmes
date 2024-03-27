@@ -12,6 +12,9 @@
 
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
+### Stargazers
+
+[<img src="https://github.com/Readme-Workflows/recent-activity/blob/main/.github/svg_cache/stats-stargazers.svg">][stargazers]
 
 ## Jokes Card
 
