@@ -2,6 +2,13 @@
 
 - [Índice](#índice)
 
+## Community
+
+![](https://contrib.rocks/image?repo=your-username/your-repo)
+
+Powered by [your-project-name](https://your-project-url)
+
+
 ## Tips
 <center>This text is centered.</center>
 <font color="red">This text is red!</font>
