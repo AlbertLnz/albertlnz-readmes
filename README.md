@@ -2,6 +2,11 @@
 
 - [Índice](#índice)
 
+## Skill Icons
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ## Community
 
 ![](https://contrib.rocks/image?repo=your-username/your-repo)
