@@ -4,7 +4,7 @@
 
 ## Buy Me A Coffee Badge
 
-Link: https://www.buymeacoffee.com/brand
+Link: https://www.buymeacoffee.com
 
 <p align="left"><a href="#"><img width="125" src="https://github.com/MHSanaei/3x-ui/assets/115543613/7aa895dd-048a-42e7-989b-afd41a74e2e1" alt="Image"></a></p>
 
