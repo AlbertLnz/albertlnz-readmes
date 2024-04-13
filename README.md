@@ -2,6 +2,13 @@
 
 - [Índice](#índice)
 
+## Text colors
+
++ some-text +
+- some-text -
+# some-text #
+* some-text *
+
 ## Napkin Custom Badges
 
 !\[status up\](https://napkin-examples.npkn.net/site-status-badge/)
