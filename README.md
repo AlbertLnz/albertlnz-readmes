@@ -2,6 +2,12 @@
 
 - [Índice](#índice)
 
+## Ubication markers
+
+![Marker Blue](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-blue.png)
+
+![Marker Blue](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-gold.png)
+
 ## Text colors
 
 + some-text +
