@@ -2,6 +2,10 @@
 
 - [Índice](#índice)
 
+## GitHub Repo Hit Counter
+
+[![HitCount](https://hits.dwyl.com/albertlnz/readmes.svg)](https://hits.dwyl.com/albertlnz/readmes)
+
 ## Dark Shields
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
