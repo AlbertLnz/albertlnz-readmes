@@ -2,7 +2,7 @@
 
 - [Índice](#índice)
 
-## GitHub Repo Hit Counter
+## GitHub Repository Hit Counter
 
 [![HitCount](https://hits.dwyl.com/albertlnz/readmes.svg)](https://hits.dwyl.com/albertlnz/readmes)
 
