@@ -6,7 +6,7 @@
 
 LINK: https://leviarista.github.io/github-profile-header-generator/
 
-## GitHub Repository Hit Counter
+## GitHub Repo Hit Counter
 
 [![HitCount](https://hits.dwyl.com/albertlnz/readmes.svg)](https://hits.dwyl.com/albertlnz/readmes)
 
