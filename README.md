@@ -4,7 +4,7 @@
 
 ## GitHub Profile Header Generator
 
-LINK: https://leviarista.github.io/github-profile-header-generator/
+Link: https://leviarista.github.io/github-profile-header-generator/
 
 ## GitHub Repo Hit Counter
 
