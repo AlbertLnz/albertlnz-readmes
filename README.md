@@ -10,7 +10,7 @@ Link: https://leviarista.github.io/github-profile-header-generator/
 
 [![HitCount](https://hits.dwyl.com/albertlnz/readmes.svg)](https://hits.dwyl.com/albertlnz/readmes)
 
-## Dark Shields
+## Dark Shields.io
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
