@@ -10,6 +10,10 @@ Source: https://leviarista.github.io/github-profile-header-generator/
 
 [![HitCount](https://hits.dwyl.com/albertlnz/readmes.svg)](https://hits.dwyl.com/albertlnz/readmes)
 
+## Simple Badgets
+
+Source: https://badges.pages.dev/
+
 ## Dark Shields.io
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
