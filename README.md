@@ -4,7 +4,7 @@
 
 ## GitHub Profile Header Generator
 
-Source: https://leviarista.github.io/github-profile-header-generator/
+Link: https://leviarista.github.io/github-profile-header-generator/
 
 ## GitHub Repo Hit Counter
 
@@ -12,7 +12,7 @@ Source: https://leviarista.github.io/github-profile-header-generator/
 
 ## Simple Badgets
 
-Source: https://badges.pages.dev/
+Link: https://badges.pages.dev/
 
 ## Dark Shields.io
 
