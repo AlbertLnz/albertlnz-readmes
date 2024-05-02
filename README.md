@@ -47,6 +47,10 @@ Link: https://badges.pages.dev/
 !\[status up\](https://napkin-examples.npkn.net/site-status-badge/)
 !\[status down\](https://napkin-examples.npkn.net/site-status-badge/400)
 
+## Become a sponsor
+
+<a href="https://opencollective.com/git-point#backers" target="_blank"><img src="https://opencollective.com/git-point/backers.svg?width=890"></a>
+
 ## Buy Me A Coffee Badge
 
 Link: https://www.buymeacoffee.com
