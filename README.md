@@ -91,6 +91,10 @@ Reference-style:
   └─ src/utils - # Utility functions used in various places
 ```
 
+## Texhs Icons
+
+Link: https://marwin1991.github.io/profile-technology-icons/
+
 ## Skill Icons
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
