@@ -378,6 +378,8 @@ Wiki:
 
 ## Buttons
 
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/anuraghazra/github-readme-stats)
+
 <!-- ############################### -->
 
 [![Watch Videos](https://raw.githubusercontent.com/ChristianFJung/simple-github-buttons/master/watchVideos.svg)](http://google.es)
