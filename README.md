@@ -118,7 +118,9 @@ Powered by [your-project-name](https://your-project-url)
 
 ### Stargazers
 
-[<img src="https://github.com/Readme-Workflows/recent-activity/blob/main/.github/svg_cache/stats-stargazers.svg">][stargazers]
+<img src="https://github.com/Readme-Workflows/recent-activity/blob/main/.github/svg_cache/stats-stargazers.svg">[stargazers]
+
+[![Stargazers over time](https://starchart.cc/AlbertLnz/dice-API.svg?variant=adaptive)](https://starchart.cc/AlbertLnz/dice-API)
 
 ## Jokes Card
 
