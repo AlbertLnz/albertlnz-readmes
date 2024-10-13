@@ -116,6 +116,10 @@ Powered by [your-project-name](https://your-project-url)
 
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
+### Repo analytics layout by Repobeats
+
+![Alt](https://repobeats.axiom.co/api/embed/bbda0a2ecb8dae3a124f45160d401549e15dc201.svg "Repobeats analytics image")
+
 ### Stargazers
 
 <img src="https://github.com/Readme-Workflows/recent-activity/blob/main/.github/svg_cache/stats-stargazers.svg">[stargazers]
