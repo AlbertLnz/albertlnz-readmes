@@ -105,6 +105,13 @@ Link: https://marwin1991.github.io/profile-technology-icons/
 
 Powered by [your-project-name](https://your-project-url)
 
+## FlowChart with buttons
+
+```mermaid
+flowchart TD
+    zarr-python[Zarr Library] <-- key / value--> icechunk[Icechunk Library]
+    icechunk <-- data / metadata files --> storage[(Object Storage)]
+```
 
 ## Tips
 <center>This text is centered.</center>
