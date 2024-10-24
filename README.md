@@ -14,6 +14,10 @@ Link: https://leviarista.github.io/github-profile-header-generator/
 
 Link: https://home.aveek.io/GitHub-Profile-Badges/
 
+## AI Badget
+
+<a href="https://app.commanddash.io/agent?github=https://github.com/AlbertLnz/albertlnz-readmes"><img src="https://img.shields.io/badge/AI-Code%20Assist-EB9FDA"></a>
+
 ## Simple Badgets
 
 Link: https://badges.pages.dev/
