@@ -290,6 +290,17 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ## Project Card
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlbertLnz&repo=dice-API&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/AlbertLnz/dice-API)
 
+## Markdown logos
+| Image | Preview |
+|----------------|-------|
+| `custom`       | Provide a custom image URL. |
+| `black`  | <img src="https://img.icons8.com/external-tal-revivo-regular-tal-revivo/96/external-readme-is-a-easy-to-build-a-developer-hub-that-adapts-to-the-user-logo-regular-tal-revivo.png" width="100" height="100" alt="readme-blue"> |
+| `blue`      | <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="100" height="100" alt="default"> |
+| `gradient`     | <img src="https://img.icons8.com/nolan/96/markdown.png" width="100" height="100" alt="gradient"> |
+| `purple`       | <img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/100/external-markdown-a-lightweight-markup-language-with-plain-text-formatting-syntax-logo-duo-tal-revivo.png" width="100" height="100" alt="purple"> |
+| `yellow`       | <img src="https://img.icons8.com/pulsar-color/96/markdown.png" width="100" height="100" alt="yellow"> |
+
+
 ## More GitHub icons
 All [250+ Octicons](https://primer.style/octicons/) from GitHub are supported by Custom Icon Badges.
 
