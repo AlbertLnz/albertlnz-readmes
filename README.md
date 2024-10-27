@@ -18,6 +18,10 @@ Link: https://home.aveek.io/GitHub-Profile-Badges/
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1e513c14-d9f5-41a8-9979-d8ee95348d75/deploy-status)](https://app.netlify.com/sites/albertlnz-routes/deploys)
 
+## Unoficial Vercel Status badge
+
+![Vercel Badge](https://deploy-badge.vercel.app/vercel/deploy-badge) ![License](https://img.shields.io/badge/license-MIT-blue)
+
 ## AI Badget
 
 <a href="https://app.commanddash.io/agent?github=https://github.com/AlbertLnz/albertlnz-readmes"><img src="https://img.shields.io/badge/AI-Code%20Assist-EB9FDA"></a>
