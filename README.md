@@ -164,6 +164,10 @@ flowchart TD
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+## Text Symbols
+
+https://www.textsymbols.net/p/symbols.html?m=1
+
 ## Symbols
 Copyright (©): &copy;
 
