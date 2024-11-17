@@ -28,7 +28,7 @@ Link: https://home.aveek.io/GitHub-Profile-Badges/
 
 ## GitHub Readme Badges
 
-<a href="https://github.com/Ansub/github-readme-badges"><GitHub Readme Badges/a>
+Link: https://github.com/Ansub/github-readme-badges
 
 ### Languages
 
