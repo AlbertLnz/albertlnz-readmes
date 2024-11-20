@@ -10,7 +10,7 @@ Link: https://leviarista.github.io/github-profile-header-generator/
 
 [![HitCount](https://hits.dwyl.com/albertlnz/readmes.svg)](https://hits.dwyl.com/albertlnz/readmes)
 
-## Aveek Badgets
+## Aveek Badges
 
 Link: https://home.aveek.io/GitHub-Profile-Badges/
 
