@@ -79,7 +79,7 @@ Link: https://github.com/Ansub/github-readme-badges
 | Figma            | ![Figma](https://readmebadge.vercel.app/badges/figma.svg)                                                                               | `![Figma](https://readmebadge.vercel.app/badges/figma.svg)`       |
 | Framer           | ![Framer](https://readmebadge.vercel.app/badges/framer.svg)                                                                            | `![Framer](https://readmebadge.vercel.app/badges/framer.svg)`       |
 
-## Simple Badgets
+## Simple Badges
 
 Link: https://badges.pages.dev/
 
