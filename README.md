@@ -171,7 +171,7 @@ Reference-style:
   └─ src/utils - # Utility functions used in various places
 ```
 
-## Texhs Icons
+## Techs Icons
 
 Link: https://marwin1991.github.io/profile-technology-icons/
 
