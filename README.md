@@ -100,13 +100,6 @@ Link: https://badges.pages.dev/
 
 ![Marker Blue](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-gold.png)
 
-## Text colors
-
-+ some-text +
-- some-text -
-# some-text #
-* some-text *
-
 ## Separator lines
 
 * "aqua" ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
