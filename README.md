@@ -554,8 +554,6 @@ Wiki:
 
 ## Tags
 
-<a href="https://github.com/sponsors/natemoo-re" title="Sponsor Nate Moore"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
-
 * [![Contributors][contributors-shield]][contributors-url]
 
 [contributors-shield]: https://img.shields.io/github/contributors/AlbertLnz/dice-API.svg?style=for-the-badge
