@@ -831,9 +831,6 @@ content body (support **markdown** syntax ~~hmm~~)
 }
 ````
 
-## Info icon
-ℹ️
-
 ## Volver a un link personalizado
 **[⬆ Volver a índice](#índice)**
 
