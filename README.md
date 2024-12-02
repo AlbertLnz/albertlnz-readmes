@@ -177,8 +177,6 @@ Link: https://marwin1991.github.io/profile-technology-icons/
 
 ![](https://contrib.rocks/image?repo=your-username/your-repo)
 
-Powered by [your-project-name](https://your-project-url)
-
 ## FlowChart with buttons
 
 ```mermaid
