@@ -867,7 +867,7 @@ content body (support **markdown** syntax ~~hmm~~)
 > Alerta Tip
 
 > [!IMPORTANT]
-> Alerta Warning
+> Alerta Important
 
 > [!CAUTION]
 > Alerta Caution
