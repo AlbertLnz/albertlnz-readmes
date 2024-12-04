@@ -26,9 +26,9 @@ Discuss how someone should disclose a vulnerability to "MY-PROJECT", in tl;dr ( 
 - "MY-PROJECT" security contact { contact: mailto:[EMAIL ADDRESS] }
 - Disclosure format: When disclosing vulnerabilities please 
   1. Your name and affiliation (if any).
-  2. include scope of vulnerability. Let us know who could use this exploit.
-  3. document steps to identify the vulnerability. It is important that we can reproduce your findings. 
-  4. how to exploit vulnerability, give us an attack scenario.
+  2. Include scope of vulnerability. Let us know who could use this exploit.
+  3. Document steps to identify the vulnerability. It is important that we can reproduce your findings. 
+  4. How to exploit vulnerability, give us an attack scenario.
 
 ### Encryption key for [EMAIL ADDRESS]
 For critical flaws and sensitive security information you may encrypt your transmission with key below.
