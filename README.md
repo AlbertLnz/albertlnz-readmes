@@ -54,7 +54,7 @@ Link: https://github.com/Ansub/github-readme-badges
 | Material UI      | ![materialui](https://readmebadge.vercel.app/badges/materialui.svg)                                                                     | `![materialui](https://readmebadge.vercel.app/badges/materialui.svg)`    |
 
 
-### Hosting
+## Hosting
 
 | Name             | Badge                                                                                                                                   | Markdown                                                                                                                                  |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
