@@ -209,7 +209,7 @@ flowchart TD
 #### Cotton (default)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=albertlnz&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### Stargazers
+## Stargazers
 
 <img src="https://github.com/Readme-Workflows/recent-activity/blob/main/.github/svg_cache/stats-stargazers.svg">[stargazers]
 
