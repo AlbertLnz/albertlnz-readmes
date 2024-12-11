@@ -47,7 +47,7 @@ Link: https://github.com/Ansub/github-readme-badges
 | GraphQL         | ![GraphQL](https://readmebadge.vercel.app/badges/graphql.svg)                                                                            | `![GraphQL](https://readmebadge.vercel.app/badges/graphql.svg)`       |
 
 
-### Framework & Libraries
+## Framework & Libraries
 
 | Name             | Badge                                                                                                                                   | Markdown                                                                                                                                  |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
