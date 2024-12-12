@@ -651,7 +651,7 @@ Wiki:
 
 
 
-### Tables
+## Tables
 |     | Command          | Action                                        |
 | :-- | :--------------- | :-------------------------------------------- |
 | ⚙️  | `dev` or `start` | Starts local dev server at `localhost:3000`.  |
