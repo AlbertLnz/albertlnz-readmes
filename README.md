@@ -84,6 +84,11 @@ Link: https://github.com/Ansub/github-readme-badges
 | Figma            | ![Figma](https://readmebadge.vercel.app/badges/figma.svg)                                                                               | `![Figma](https://readmebadge.vercel.app/badges/figma.svg)`       |
 | Framer           | ![Framer](https://readmebadge.vercel.app/badges/framer.svg)                                                                            | `![Framer](https://readmebadge.vercel.app/badges/framer.svg)`       |
 
+## Readme Quotes
+
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=My%20Custom%20Quote&author=AlbertLnz&type=vertical&type=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
 ## Simple Badges
 
 Link: https://badges.pages.dev/
