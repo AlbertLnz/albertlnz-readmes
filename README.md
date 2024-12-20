@@ -843,19 +843,19 @@ content body (support **markdown** syntax ~~hmm~~)
 **[⬆ Volver a índice](#índice)**
 
 
-## Box 0
+## Box 1
 <table><tr><td>The quick brown fox jumps over the lazy dog.</td></tr></table>
 
-## Box 1
+## Box 2
 | :exclamation:  You have to read about this   |
 |----------------------------------------------|
 
-## Box 2
+## Box 3
 | :warning: WARNING           |
 |:----------------------------|
 | Another way to warn you     |
 
-## Box 3
+## Box 4
 | :memo:        | This is something that is good to note       |
 |---------------|:---------------------------------------------|
 
