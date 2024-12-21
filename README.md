@@ -68,7 +68,7 @@ Link: https://github.com/Ansub/github-readme-badges
 | Railway          | ![Railway](https://readmebadge.vercel.app/badges/railway.svg)                                                                           | `![Railway](https://readmebadge.vercel.app/badges/railway.svg)`       |
 
 
-## Database
+## Databases
 
 | Name             | Badge                                                                                                                                   | Markdown                                                                                                                                  |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
