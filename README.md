@@ -226,7 +226,7 @@ flowchart TD
 
 ## Text Symbols
 
-https://www.textsymbols.net/p/symbols.html?m=1
+Link: https://www.textsymbols.net/p/symbols.html?m=1
 
 ## Symbols
 Copyright (©): &copy;
