@@ -757,7 +757,7 @@ multi quicksort([$pivot, *@rest]) {
 ***
 ___
 
-## Basics
+## Readme Basics
 **This is bold text** <br>
 *This text is italicized (way 1 - better)* <br>
 _This text is italicized (way 2)_ <br>
