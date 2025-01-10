@@ -867,6 +867,8 @@ content body (support **markdown** syntax ~~hmm~~)
 > Buenas <br>
 >> Use `git status` to list all new or modified files that haven't yet been committed.
 
+## GitHub Alerts
+
 > [!WARNING]
 > Alerta Warning
 
