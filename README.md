@@ -104,7 +104,7 @@ Link: https://badges.pages.dev/
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 
-## Ubication markers
+## Ubication Markers
 
 ![Marker Blue](https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-blue.png)
 
