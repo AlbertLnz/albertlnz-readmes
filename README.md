@@ -130,7 +130,7 @@ Link: https://badges.pages.dev/
 
 ![status down\](https://napkin-examples.npkn.net/site-status-badge/400)
 
-## Become a sponsor
+## Become a Sponsor
 
 <a href="https://opencollective.com/git-point#backers" target="_blank"><img src="https://opencollective.com/git-point/backers.svg?width=890"></a>
 
