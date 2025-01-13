@@ -124,7 +124,7 @@ Link: https://badges.pages.dev/
 * "vintage" ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/vintage.png)
 * "water" ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png)
 
-## Napkin custom badges
+## Napkin Custom Badges
 
 ![status up\](https://napkin-examples.npkn.net/site-status-badge/)
 
