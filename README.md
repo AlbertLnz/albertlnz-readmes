@@ -663,7 +663,6 @@ Wiki:
 | ⚙️  | `build`          | Build your production site to `./dist/`.      |
 | ⚙️  | `preview`        | Preview your build locally, before deploying. |
 
-### Contributors Table
 ## Contributors
 
 Static generate table: https://contributors-table-generator.vercel.app/
