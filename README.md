@@ -183,7 +183,7 @@ Link: https://marwin1991.github.io/profile-technology-icons/
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
-## Community
+## Community Image
 
 ![](https://contrib.rocks/image?repo=your-username/your-repo)
 
