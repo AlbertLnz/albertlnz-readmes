@@ -296,7 +296,7 @@ Pi (π): &#960;
 | :---------: | :---------: | :---------: | :---------: | :---------: |
 | Yes | 11+ | Yes | Yes | Yes |
 
-## More stats Manually
+## More Stats manually
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
