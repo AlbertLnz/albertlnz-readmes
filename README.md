@@ -1,4 +1,4 @@
-o## Índice
+## Índice
 
 - [Índice](#índice)
 
