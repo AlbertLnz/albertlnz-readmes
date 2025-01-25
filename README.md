@@ -384,7 +384,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 | `yellow`       | <img src="https://img.icons8.com/pulsar-color/96/markdown.png" width="100" height="100" alt="yellow"> |
 
 
-## More GitHub icons
+## More GitHub Icons
 All [250+ Octicons](https://primer.style/octicons/) from GitHub are supported by Custom Icon Badges.
 
 | Slug               | Example                                                   |
