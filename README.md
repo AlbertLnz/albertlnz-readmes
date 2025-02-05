@@ -602,7 +602,7 @@ Wiki:
 <img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" />
 
 
-## Techs
+## Technologies
 
 * [![Next][Next.js]][Next-url]
 
