@@ -861,7 +861,7 @@ content body (support **markdown** syntax ~~hmm~~)
 | :memo:        | This is something that is good to note       |
 |---------------|:---------------------------------------------|
 
-## Box 4
+## Box 5
 
 > Buenas <br>
 > Use `git status` to list all new or modified files that haven't yet been committed.
