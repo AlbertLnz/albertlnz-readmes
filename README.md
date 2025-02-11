@@ -814,7 +814,7 @@ A footnote can also have multiple lines[^2].
 ## Mensaje oculto en el Readme
 <!-- This content will not appear in the rendered Markdown -->
 
-## Details code (md)
+## Details code 1 (md)
 
 ````md
 <details>
