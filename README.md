@@ -811,7 +811,7 @@ A footnote can also have multiple lines[^2].
 [^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
   This is a second line.
 
-## Mensaje oculto en el Readme
+## Mensaje oculto en el Readme (html comment)
 <!-- This content will not appear in the rendered Markdown -->
 
 ## Details code 1 (md)
