@@ -77,7 +77,7 @@ Link: https://github.com/Ansub/github-readme-badges
 | Planetscale      | ![Planetscale](https://readmebadge.vercel.app/badges/planetscale.svg)                                                                   | `![Planetscale](https://readmebadge.vercel.app/badges/planetscale.svg)`    |
 
 
-## Design
+## Design badges
 
 | Name             | Badge                                                                                                                                   | Markdown                                                                                                                                  |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
