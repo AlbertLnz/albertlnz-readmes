@@ -93,7 +93,7 @@ Link: https://github.com/Ansub/github-readme-badges
 
 Link: https://badges.pages.dev/
 
-## Dark Shields.io
+## Shields.io
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
