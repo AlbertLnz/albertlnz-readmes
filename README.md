@@ -126,9 +126,9 @@ Link: https://badges.pages.dev/
 
 ## Napkin Custom Badges
 
-![status up\](https://napkin-examples.npkn.net/site-status-badge/)
+![statusup\](https://napkin-examples.npkn.net/site-status-badge/)
 
-![status down\](https://napkin-examples.npkn.net/site-status-badge/400)
+![statusdown\](https://napkin-examples.npkn.net/site-status-badge/400)
 
 ## Become a Sponsor
 
