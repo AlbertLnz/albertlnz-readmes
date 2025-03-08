@@ -740,7 +740,7 @@ function fancyAlert(arg) {
 }
 ```
 
-## Sintaxis Oculta
+## Hidden Sintaxis
 <details>
 <summary>Recursive quicksort implemented in Raku.</summary>
 
