@@ -229,6 +229,7 @@ flowchart TD
 Link: https://www.textsymbols.net/p/symbols.html?m=1
 
 ## Symbols
+
 Copyright (©): &copy;
 
 Registered trademark (®): &reg;
