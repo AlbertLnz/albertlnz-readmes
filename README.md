@@ -656,9 +656,6 @@ Wiki:
 [PlanetScale-url]: https://planetscale.com/
 
 
-
-
-
 ## Tables
 
 |     | Command          | Action                                        |
