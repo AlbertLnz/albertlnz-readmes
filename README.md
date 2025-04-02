@@ -385,6 +385,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlbertLnz&repo=dice-API&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/AlbertLnz/dice-API)
 
 ## Markdown logos
+
 | Image | Preview |
 |----------------|-------|
 | `custom`       | Provide a custom image URL. |
