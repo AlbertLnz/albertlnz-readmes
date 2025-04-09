@@ -400,6 +400,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 ## More GitHub Icons
+
 All [250+ Octicons](https://primer.style/octicons/) from GitHub are supported by Custom Icon Badges.
 
 | Slug               | Example                                                   |
