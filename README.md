@@ -876,6 +876,7 @@ content body (support **markdown** syntax ~~hmm~~)
 | Another way to warn you     |
 
 ## Box 4
+
 | :memo:        | This is something that is good to note       |
 |---------------|:---------------------------------------------|
 
