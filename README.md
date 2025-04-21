@@ -822,6 +822,7 @@ This site was built using [GitHub Pages](https://pages.github.com/)
 - [ ] \(Optional) Open a followup issue
 
 ## Notas de pie
+
 Here is a simple footnote[^1].
 A footnote can also have multiple lines[^2].
 
